@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbjcar
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning deep learning algorithm
+- 👀 I’m interested in data analysis, AI, Agent
+- 🌱 I’m currently learning Microsoft 365, Power Platform, Copilot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ref)email: bbjcar2@gmail.com 
                       
