@@ -24,6 +24,6 @@ Microsoft 365 · Power Platform · Copilot 기반의 AI 업무 혁신(AX)을 다
 
 ## 📫 연락
 
-- Email: [연락받을 주소]
+- Email: bbjcar2@gmail.com
 
 > 모든 글은 Microsoft 공식 문서를 기준으로 정리하며, 고객사·사내 정보는 포함하지 않습니다.
